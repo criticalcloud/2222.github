@@ -39,7 +39,7 @@ Isso permite que as equipes de desenvolvimento se concentrem mais em criar aplic
 <img height="2" width="1000" src="https://i.ibb.co/1XBDN6P/Ativo-13.png" alt="Ativo-13">
 <br>
 
-# 🛠 Ferramentas e Certificações
+# 🛠 Ferramentas
 
 <img height="500" width="2000" src="https://i.ibb.co/SxfjPB2/ferramentas-2.png" alt="ferramentas-2">
 
