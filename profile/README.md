@@ -1,5 +1,5 @@
 <div style="display: inline_block" align="center"><br>
-<img align="center" alt="HTML" height="120" width="2000" src="https://i.ibb.co/1rj6kZc/cc-bord.png">
+<img align="center" alt="HTML" height="120" width="2000" src="https://i.ibb.co/BG8JX8t/logo-cc.png" alt="logo-cc">
 
 <img height="2" width="1000" src="https://i.ibb.co/1XBDN6P/Ativo-13.png" alt="Ativo-13">
 
@@ -41,7 +41,7 @@ Isso permite que as equipes de desenvolvimento se concentrem mais em criar aplic
 
 # 🛠 Ferramentas e Certificações
 
-<img height="350" width="2000" src="https://i.ibb.co/fFVDYpW/ferramentas-1.png" alt="ferramentas-1" >
+<img height="350" width="2000" src="https://i.ibb.co/SxfjPB2/ferramentas-2.png" alt="ferramentas-2">
 
 # 🔗 Contato
 <div style="display: inline_block" align="center"><br>
