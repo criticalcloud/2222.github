@@ -1,5 +1,5 @@
 <div style="display: inline_block" align="center"><br>
-<img align="center" alt="HTML" height="90" width="500" src="https://i.ibb.co/K0qrvQR/Ativo-10.png">
+<img align="center" alt="HTML" height="120" width="2000" src="https://i.ibb.co/1rj6kZc/cc-bord.png">
 
 <img height="2" width="1000" src="https://i.ibb.co/1XBDN6P/Ativo-13.png" alt="Ativo-13">
 
@@ -41,38 +41,7 @@ Isso permite que as equipes de desenvolvimento se concentrem mais em criar aplic
 
 # 🛠 Ferramentas e Certificações
 
-<div style="display: inline_block" align="center"><br>
-<img height="40" src="https://i.ibb.co/LCHMkL1/argo.png" alt="argo">
-<img height="40" src="https://i.ibb.co/j8VZwC6/aws.png" alt="aws">
-<img height="35" src="https://i.ibb.co/41mQHJL/azure.png" alt="azure">
-<img height="40" src="https://i.ibb.co/LxLNC2y/cloudflare.png" alt="cloudflare">
-<img height="45" src="https://i.ibb.co/yhvw8qt/datadog.png" alt="datadog">
-<img height="32" src="https://i.ibb.co/kJFzhf6/docker.png" alt="docker">
-<img height="40" src="https://i.ibb.co/sKH6MLM/git-actions.png" alt="git-actions">
-<img height="50" src="https://i.ibb.co/WPd0MmM/google-cloud.png" alt="google-cloud">
-<img height="40" src="https://i.ibb.co/4gC2h7x/istio.png" alt="istio">
-<img height="40" src="https://i.ibb.co/jvkmTWw/jenkins.png" alt="jenkins">
-<img height="40" src="https://i.ibb.co/rpChWPQ/kubernest.png" alt="kubernest">
-<img height="40" src="https://i.ibb.co/1nNYvVK/sonarque.png" alt="sonarque">
-<img height="35" src="https://i.ibb.co/GCnx06Y/terraform.png" alt="terraform">
-<img height="45" src="https://i.ibb.co/GQgS4bG/valt.png" alt="valt">
-
-<br>
-<br>
-<img height="45" src="https://i.ibb.co/XFzkwBj/aws-certified.png" alt="aws-certified"><br>
-
-
-<img height="80" src="https://i.ibb.co/kySqcq7/s-a-associate.png" alt="s-a-associate">
-<img height="80" src="https://i.ibb.co/55D5tY9/sysnops.png" alt="sysnops">
-<img height="80" src="https://i.ibb.co/j5zfdgv/dev-associate.png" alt="dev-associate">
-<img height="80" src="https://i.ibb.co/Tgr0P3G/terraform-certificated.png" alt="terraform-certificated">
-<img height="80" src="https://i.ibb.co/5GTHsJm/valt-associated.png" alt="valt-associated">
-<img height="80" src="https://i.ibb.co/cJ68xrW/certicated-kubernetes.png" alt="certicated-kubernetes">
-</div>
-
-<br>
-<img height="2" width="1000" src="https://i.ibb.co/1XBDN6P/Ativo-13.png" alt="Ativo-13">
-<br>
+<img height="350" width="2000" src="https://i.ibb.co/fFVDYpW/ferramentas-1.png" alt="ferramentas-1" >
 
 # 🔗 Contato
 <div style="display: inline_block" align="center"><br>
