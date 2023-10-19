@@ -41,7 +41,7 @@ Isso permite que as equipes de desenvolvimento se concentrem mais em criar aplic
 
 # 🛠 Ferramentas e Certificações
 
-<img height="350" width="2000" src="https://i.ibb.co/SxfjPB2/ferramentas-2.png" alt="ferramentas-2">
+<img height="500" width="2000" src="https://i.ibb.co/SxfjPB2/ferramentas-2.png" alt="ferramentas-2">
 
 # 🔗 Contato
 <div style="display: inline_block" align="center"><br>
