@@ -1,5 +1,5 @@
 <div style="display: inline_block" align="center"><br>
-<img align="center" alt="HTML" height="120" width="2000" src="https://i.ibb.co/Y02mkgS/Ativo-2.png" alt="github-80">
+<img align="center" alt="HTML" height="120" width="2000" src="https://i.ibb.co/KNB2yx8/Ativo-3.png" alt="github-80">
 
 <img height="2" width="1000" src="https://i.ibb.co/1XBDN6P/Ativo-13.png" alt="Ativo-13">
 
